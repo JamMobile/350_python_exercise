@@ -1,3 +1,5 @@
+#I Hope this works....
+
 # Exercise: Variable Manipulation
 # Initialize three variables of different types: int, float, and str
 # Use both camel case and underscore notation for variable names
